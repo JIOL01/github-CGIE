@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cursos Excel</string>
+    <string name="Img">Start</string>
+    <string name="txtTitulo">Bienvenido a Cursos Excel</string>
+    <string name="txtPresent">Encuentra los mejores temas que potenciarán tus habilidades en Excel para lograr el éxito en este año 2024</string>
+    <string name="btn1">Empieza Ya</string>
+    <string name="txtDash">DashBoard</string>
+    <string name="btnT1">Conceptos Básicos de las Bases de Datos</string>
+    <string name="btnT2">Acciones sobre una Base de Datos</string>
+    <string name="btnT3">Manejo de Tablas Dinámicas</string>
+    <string name="btnT">Acciones sobre una Base de Datos</string>
+    <string name="btnConfig">Configuraciones</string>
+    <string name="btnT4">Acciones sobre una Base de Datos Avanzado</string>
+    <string name="txtContent">Lista de Temas</string>
+    <string name="btnVideo">Ver Video</string>
+    <string name="btnDb">Descargar BD</string>
+    <string name="txtSeleccion">Seleccione un Tema</string>
+</resources>
